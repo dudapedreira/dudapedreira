@@ -149,8 +149,8 @@ height: auto;
 .descritivo {
 	text-align: justify;
 	line-height: 1.5;
-	text-indent: 45px;
- 	padding: 0 6% 0 6%;			
+/*	text-indent: 45px;
+*/ 	padding: 0 6% 1% 6%;			
 }
 
 
